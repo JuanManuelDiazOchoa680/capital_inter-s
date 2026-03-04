@@ -1,5 +1,5 @@
 # capital_interes
-Programa en Python para ingresar un capital e imprimir en cuantos meses se duplica según un interés compuesto del 5%
+Hacer el diagrama de flujo y el programa en Python que lea un capital c, y que averigüe e imprima en cuántos meses se duplica, si le colocamos un interés compuesto del 5% mensual.
 
 ## Anĺisis
 
